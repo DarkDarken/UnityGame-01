@@ -3,7 +3,11 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+<<<<<<< HEAD
 Assets/AssetStoreTools*
+=======
+/Assets/AssetStoreTools*
+>>>>>>> f3f88e44115bafc21695ed2238676c0b11080b76
 
 # Visual Studio 2015 cache directory
 /.vs/
