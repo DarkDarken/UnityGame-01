@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6c0f6f9236f79fd4bb2adb84d4c2be14
+timeCreated: 1517607862
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Speedeasy Speedy
+  fontNames:
+  - Speedeasy Speedy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c880d273d6fae454397e8ac409182710
+timeCreated: 1517609021
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: U.S.S. Dallas
+  fontNames:
+  - U.S.S. Dallas
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
